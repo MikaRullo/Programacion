@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1660747572 source:d:\universidad\programacion\2022\ej2\ej1.c
+	"ej1.h"
+
+1660747491 d:\universidad\programacion\2022\ej2\ej1.h
+	<stdio.h>
+	<stdlib.h>
+
+1660747895 source:d:\universidad\programacion\2022\ej2\main.c
+	"ej2.h"
+
+1660747895 source:d:\universidad\programacion\2022\ej2\ej2.c
+	"ej2.h"
+
+1660747491 d:\universidad\programacion\2022\ej2\ej2.h
+	<stdio.h>
+	<stdlib.h>
+
