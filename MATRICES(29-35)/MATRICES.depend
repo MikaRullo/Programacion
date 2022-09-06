@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1631705122 source:d:\universidad\programacion\matrices\funcionesd.c
+	"FuncionesP.h"
+
+1631704923 d:\universidad\programacion\matrices\funcionesp.h
+	<stdio.h>
+	<stdlib.h>
+
+1631655956 source:d:\universidad\programacion\matrices\main.c
+	"FuncionesP.h"
+
+1631819376 source:d:\universidad\programacion\ejercicios\matrices\main.c
+	"FuncionesP.h"
+
+1631818871 d:\universidad\programacion\ejercicios\matrices\funcionesp.h
+	<stdio.h>
+	<stdlib.h>
+
+1631819376 source:d:\universidad\programacion\ejercicios\matrices\funcionesd.c
+	"FuncionesP.h"
+
+1662144417 source:d:\universidad\programacion\2021\ejercicios\matrices\main.c
+	"FuncionesP.h"
+
+1662143779 d:\universidad\programacion\2021\ejercicios\matrices\funcionesp.h
+	<stdio.h>
+	<stdlib.h>
+
+1662144692 source:d:\universidad\programacion\2021\ejercicios\matrices\funcionesd.c
+	"FuncionesP.h"
+

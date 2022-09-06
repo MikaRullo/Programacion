@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662153961 source:d:\universidad\programacion\2022\ej37\main.c
+	"matriz.h"
+
+1662153870 d:\universidad\programacion\2022\ej37\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1662153870 source:d:\universidad\programacion\2022\ej37\matriz.c
+	"matriz.h"
+

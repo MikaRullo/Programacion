@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662147296 source:d:\universidad\programacion\2022\multiplicacionmat\main.c
+	"mat.h"
+
+1662147446 d:\universidad\programacion\2022\multiplicacionmat\mat.h
+	<stdio.h>
+	<stdlib.h>
+
+1662147459 source:d:\universidad\programacion\2022\multiplicacionmat\mat.c
+	"mat.h"
+
