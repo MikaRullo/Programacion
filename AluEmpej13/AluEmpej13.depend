@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663610961 source:d:\universidad\programacion\2022\aluempej13\main.c
+	"aluEmp.h"
+
+1663610798 d:\universidad\programacion\2022\aluempej13\aluemp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663611052 source:d:\universidad\programacion\2022\aluempej13\aluemp.c
+	"aluEmp.h"
+
