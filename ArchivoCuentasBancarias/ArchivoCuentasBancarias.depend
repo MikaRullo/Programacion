@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1623192451 source:c:\users\usuario\downloads\programacion\ejercicios\tda cola\colaestatica\colaestatica.c
+	"ColaEstatica.h"
+
+1623192451 c:\users\usuario\downloads\programacion\ejercicios\tda cola\colaestatica\colaestatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623192944 source:c:\users\usuario\downloads\programacion\ejercicios\tda cola\archivocuentasbancarias\archivocuentasbancarias.c
+	"ArchivoCuentasBancarias.h"
+
+1623101249 c:\users\usuario\downloads\programacion\ejercicios\tda cola\archivocuentasbancarias\archivocuentasbancarias.h
+	"../ColaEstatica/ColaEstatica.h"
+
+1623102103 source:c:\users\usuario\downloads\programacion\ejercicios\tda cola\archivocuentasbancarias\main.c
+	"ArchivoCuentasBancarias.h"
+
