@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1661532032 source:d:\universidad\programacion\2022\vectores\vectores.c
+	"vectores.h"
+
+1661532032 d:\universidad\programacion\2022\vectores\vectores.h
+	<stdio.h>
+	<stdlib.h>
+
+1661532056 source:d:\universidad\programacion\2022\vectores\main.c
+	"vectores.h"
+
+1661970966 source:d:\universidad\programacion\2022\vectores(22-28 basico)\main.c
+	"vectores.h"
+
+1661532032 d:\universidad\programacion\2022\vectores(22-28 basico)\vectores.h
+	<stdio.h>
+	<stdlib.h>
+
+1661532032 source:d:\universidad\programacion\2022\vectores(22-28 basico)\vectores.c
+	"vectores.h"
+
+1661970997 source:d:\universidad\programacion\2022\tp1\vectores(22-28 basico)\main.c
+	"vectores.h"
+
+1661532032 d:\universidad\programacion\2022\tp1\vectores(22-28 basico)\vectores.h
+	<stdio.h>
+	<stdlib.h>
+
+1661532032 source:d:\universidad\programacion\2022\tp1\vectores(22-28 basico)\vectores.c
+	"vectores.h"
+
