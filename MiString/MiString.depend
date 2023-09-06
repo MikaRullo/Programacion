@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1687818042 source:d:\universidad\programacion\2022\mistring\main.c
+	"String.h"
+
+1683840828 d:\universidad\programacion\2022\mistring\string.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687818042 source:d:\universidad\programacion\2022\mistring\string.c
+	"String.h"
+
